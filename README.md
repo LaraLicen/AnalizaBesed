@@ -16,3 +16,4 @@ def d(x)
 
 # Avtorji
 - Lara Licen 
+- Veronika 
