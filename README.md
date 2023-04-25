@@ -14,6 +14,6 @@ def d(x)
     return 21
 ...
 
-# Avtorji 
-
-- Mojca 
+# Avtorji
+- Lara Licen 
+- Veronika 
