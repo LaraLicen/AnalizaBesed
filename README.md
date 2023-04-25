@@ -13,3 +13,7 @@ Besedilo lahko prečrtamo ~~prečrtano~~ (dvojna ~) ali pa ga oblikujemo kot kod
 def d(x)
     return 21
 ...
+
+# Avtorji 
+
+- Mojca 
